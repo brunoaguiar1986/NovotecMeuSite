@@ -1,0 +1,54 @@
+body {
+    background-color: #557170;
+}
+
+.titulo {
+    color: white;
+}
+
+.info {
+    color: rgb(30, 210, 57);
+    font-size: 20px;
+}
+
+.digite {
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input1 {
+    background-color: #2dafa8;
+    border: 0;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.input2 {
+    background-color: #2dafa8;
+    border: 0;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.botao {
+    background: #81507b;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
